@@ -4,5 +4,7 @@
 
 2. Auf dem Desktop ein Ordner Dayz-Local-Mods erstellen
 3. Den Ordner nickis_weihnachtsstiefel in den Ordner Dayz-Local-Mods und Server Ordner schieben
- 
-Im Dayz Launcher unter mods 
+
+
+![Steam Lokal Mod](https://github.com/neelab2/Weihnachtsstiefel-Test/blob/main/Screenshot%202023-11-30%20191651.png?raw=true)
+Im Dayz Launcher unter mods den gerade erstellten Ordner als lokalen mod hinzufügen
