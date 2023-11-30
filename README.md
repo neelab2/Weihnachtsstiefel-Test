@@ -9,6 +9,7 @@ Prefix = nickisweihnachtsstiefel
 4. Im Dayz Launcher unter mods den gerade erstellten Ordner als lokalen mod hinzufügen
 ![Steam Lokal Mod](https://github.com/neelab2/Weihnachtsstiefel-Test/blob/main/Screenshot%202023-11-30%20191651.png?raw=true)
 
+```c
    <type name="Wellies_Weihnacht">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -22,3 +23,4 @@ Prefix = nickisweihnachtsstiefel
         <tag name="floor"/>
         <usage name="Farm"/>
     </type>
+```
